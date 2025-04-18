@@ -74,6 +74,7 @@
                   tokyonight-nvim
                   trouble-nvim
                   ts-comments-nvim
+                  vimtex
                   which-key-nvim
                   { name = "catppuccin"; path = catppuccin-nvim; }
                   { name = "mini.ai"; path = mini-nvim; }
